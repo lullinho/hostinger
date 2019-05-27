@@ -1,0 +1,640 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-1003873120428435",
+    enable_page_level_ads: true
+  });
+</script>
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/css/bootstrap.min.css" integrity="sha384-Smlep5jCw/wG7hdkwQ/Z5nLIefveQRIY9nfy6xoR1uRYBtpZgI6339F5dgvm/e9B" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
+<link href="https://fonts.googleapis.com/css?family=Poiret+One" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet" type="text/css">
+ <link rel="shortcut icon" href="favicon.ico" />
+ 
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+
+
+<link rel="stylesheet" type="text/css" href="style.css">
+	<title>PLATINAS PS VITA EXCLUSIVO</title>
+	<!--<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
+
+
+     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<link rel="stylesheet" href="maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+  -->
+ 
+<script>
+$(document).keydown(function (event) {
+    if (event.keyCode == 123) { 
+        return false;
+    }
+});
+
+if (event.ctrlKey && event.shiftKey && event.keyCode == 73) { 
+        return false;
+    }
+
+</script>
+
+<script language="JavaScript">
+
+
+ 
+//////////F12 disable code////////////////////////
+    document.onkeypress = function (event) {
+        event = (event || window.event);
+        if (event.keyCode == 123) {
+           //alert('No F-12');
+            return false;
+        }
+    }
+    document.onmousedown = function (event) {
+        event = (event || window.event);
+        if (event.keyCode == 123) {
+            //alert('No F-keys');
+            return false;
+        }
+    }
+document.onkeydown = function (event) {
+        event = (event || window.event);
+        if (event.keyCode == 123) {
+            //alert('No F-keys');
+            return false;
+        }
+    }
+/////////////////////end///////////////////////
+ 
+ 
+//Disable right click script 
+//visit http://www.rainbow.arch.scriptmania.com/scripts/ 
+var message="Sorry, right-click has been disabled"; 
+/////////////////////////////////// 
+function clickIE() {if (document.all) {(message);return false;}} 
+function clickNS(e) {if 
+(document.layers||(document.getElementById&&!document.all)) { 
+if (e.which==2||e.which==3) {(message);return false;}}} 
+if (document.layers) 
+{document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;} 
+else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;} 
+document.oncontextmenu=new Function("return false") 
+// 
+function disableCtrlKeyCombination(e)
+{
+//list all CTRL + key combinations you want to disable
+var forbiddenKeys = new Array('a', 'n', 'c', 'x', 'v', 'j' , 'w', 'u', 'p', 'i');
+var key;
+var isCtrl;
+if(window.event)
+{
+key = window.event.keyCode;     //IE
+if(window.event.ctrlKey)
+isCtrl = true;
+else
+isCtrl = false;
+}
+else
+{
+key = e.which;     //firefox
+if(e.ctrlKey)
+isCtrl = true;
+else
+isCtrl = false;
+}
+//if ctrl is pressed check if other key is in forbidenKeys array
+if(isCtrl)
+{
+for(i=0; i<forbiddenKeys.length; i++)
+{
+//case-insensitive comparation
+if(forbiddenKeys[i].toLowerCase() == String.fromCharCode(key).toLowerCase())
+{
+alert('Key combination CTRL + '+String.fromCharCode(key) +' has been disabled.');
+return false;
+}
+}
+}
+return true;
+}
+ 
+//ctrl+u not allowed
+document.onkeydown = function(e) {
+        if (e.ctrlKey && 
+             e.keyCode === 86 || 
+            (e.keyCode === 67 || 
+              e.keyCode === 65 ||
+             e.keyCode === 85 || 
+             e.keyCode === 117)) {
+           // alert('Esse site não está mais disponível!');
+            return false;
+        } else {
+            return false;
+        }
+};
+ 
+</script>
+	
+</head>
+<body oncontextmenu="return false" ondragstart="return false" onselectstart="return false">
+
+
+
+
+
+<section style="background: #f1c40f; color: rgba(0, 0, 0, 0.5);">
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark navbarOutro shift">
+  <a class="navbar-brand" href="https://lullinhogames.com.br/">LULLINHO GAMES</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+
+        <a class="nav-link" href="https://lullinhogames.com.br/">  <span class="fas fa-home"></span> <!-- using a <span> element to reference the icon -->Home <span class="sr-only">(current)</span></a>
+      </li>
+   <li class="nav-item dropdown active" id="oi">
+        <a class="nav-link dropdown-toggle" href="unlockallbo3" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">  <span class="fas fa-medal"></span> <!-- using a <span> element to reference the icon -->
+         Unlock All
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown" id="oi">
+          <a class="dropdown-item navItens" href="unlockallbo3" id="oi">Unlock All BO3 PS4</a>
+          <div class="dropdown-divider"></div>
+          <a class="dropdown-item" href="unlockallcallofduty" id="oi">Unlock All  COD PS3</a>
+        </div>
+      </li>
+ 
+  
+           <li class="nav-item active">
+        <a class="nav-link current" href="platinas"><span class="fas fa-trophy"></span> Platinas</a>
+      </li>
+
+      <li class="nav-item active">
+        <a class="nav-link textoNav" data-toggle="modal" data-target="#exampleModal4" href="#"><span class="fas fa-users"></span> Contato
+
+
+        </a>
+            <div class="modal fade" id="exampleModal4" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel"><span class="fas fa-user-secret"></span> Contato do LULLINHO</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+
+        <div id="espacoContato">
+<a href="https://www.youtube.com/canaldoLULLINHOs2" target="_blank">  <button type="button" class="btn btn-danger botaoPlatina" >
+  Youtube: canaldoLULLINHOs2 <span class="fab fa-youtube navFab"></span>
+</button>
+</a>
+</div>
+
+
+        <div id="espacoContato">
+    <a href="https://api.whatsapp.com/send?phone=5511972586520&text=Oi,%20quero%20tirar%20uma%20dúvida" target="_blank">  <button type="button" class="btn btn-success botaoPlatina" >
+   WhatsApp: (11) 97258-6520 <span class="fab fa-whatsapp navFab"></span>
+</button>
+</a>
+</div>
+
+<div id="espacoContato">
+ <a href="https://www.messenger.com/t/felipee.lullio" target="_blank">  <button type="button" class="btn btn-info botaoPlatina" >
+  Facebook: felipee.lullio <span class="fab fa-facebook-f navFab"></span> 
+</button>
+</a>
+</div>
+
+
+
+
+<div id="espacoContato">
+ <a href="http://mypst.com.br/rank/x-LULLINHO/#!perfil" target="_blank">  <button type="button" class="btn btn-primary botaoPlatina" >
+  PSN: x-LULLINHO <span class="fab fa-playstation navFab"></span> 
+</button>
+</a>
+</div>
+      <div class="text-center">
+           <div class="dropdown-divider"></div>
+      <p class=" text-justify"> Clique em algum botão para efetuar sua ação de entrar em contato com o vendedor LULLINHO.</p>
+    </div>
+       
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Sair</button>
+        <button type="button" class="btn btn-primary" data-dismiss="modal">Entendido!</button>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+      </li> 
+
+<br/>
+    </ul>
+     <br/>
+    <a target="_blank" href="https://perfil.mercadolivre.com.br/LULLINHO_GAMES"><button class="btn btn-outline-success my-2 my-sm-0" type="submit" id="reputacao"> Reputação LULLINHO</button></a>
+</nav>
+</section>
+
+
+
+<!--
+<div>
+<img class="foto" src="template bo3 ua top.png">
+
+</div>
+-->
+<a class="lead text-left" href="platinas">Voltar</a>
+<br><br>
+<div class="titulo"> 
+	<h1> Jogos PS VITA </h1>
+  <br><br>
+  
+<div class="text-center">
+
+    <a href="jogospsvita.html" target="_blank">  <button type="button" class="btn btn-dark btn-lg botaoPlatina" >
+  Lista Jogos PS VITA
+</button>
+</a>
+
+   <a href="jogosps4.html" target="_blank">  <button type="button" class="btn btn-success btn-lg botaoPlatina" >
+  Lista Jogos PS4
+</button>
+</a>
+   
+
+
+ <a href="jogospsvitaexclusivo.html" target="_blank">  <button type="button" class="btn btn-primary btn-lg botaoPlatina" >
+  Lista Jogos EXCLUSIVO PS VITA
+</button>
+</a>
+
+
+<a href="https://www.exophase.com/platform/ps3/" target="_blank">  <button type="button" class="btn btn-danger btn-lg botaoPlatina" >
+  LISTA COMPLETA PS3
+</button>
+</a>
+
+
+</div>
+  <br><br>
+  <p class="lead"> LISTA DE JOGOS EXCLUSIVO DO PS VITA QUE DÁ PARA FAZER!
+    <div class="alert alert-secondary" role="alert">
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+    <span aria-hidden="true">&times;</span>
+  </button>
+  <strong>ATENÇÃO!</strong> Lista incompleta. Pode ser feito quase qualquer jogo de PS VITA, basta solicitar qual jogo quer!.
+</div>
+</div>
+
+
+
+<div class="container">
+  <div class="row">
+    <div class="col">
+
+<ul class="list-group">
+ <li class="list-group-item list-group-item-warning">1001 Spikes [US] -   </li>
+ <li class="list-group-item list-group-item-warning">36 Fragments Of Midnight [EU] - </li>
+ <li class="list-group-item list-group-item-warning">36 Fragments of Midnight [AS] - </li>
+ <li class="list-group-item list-group-item-warning">2064 - Read Only Memories [JP] - </li>
+ <li class="list-group-item list-group-item-warning">2064 READ ONLY MEMORIES [US] - </li>
+ <li class="list-group-item list-group-item-warning">7Scarlet [JP] - </li>
+ <li class="list-group-item list-group-item-warning">7'SCARLET [KOR] - </li>
+ <li class="list-group-item list-group-item-warning">AKIBA'S BEAT [US] - </li>
+ <li class="list-group-item list-group-item-warning">Akiba's Beat [EU] - </li>
+ <li class="list-group-item list-group-item-warning">Air Race Speed [HK] - </li>
+ <li class="list-group-item list-group-item-warning">Attack on Titan 2 - </li>
+ <li class="list-group-item list-group-item-warning">AR NOSURGE PLUS ODE TO AN UNBORN STAR - </li>
+ <li class="list-group-item list-group-item-warning">Asdivine Hearts - </li>
+ <li class="list-group-item list-group-item-warning">Axiom Verge [EU] - </li>
+ <li class="list-group-item list-group-item-warning">Axiom Verge [US] - </li>
+ <li class="list-group-item list-group-item-warning">BULLET GIRLS PHANTASIA [JP] - </li>
+ <li class="list-group-item list-group-item-warning">Bodycheck -   </li>
+ <li class="list-group-item list-group-item-warning">Bloodstained - Curse of the Moon [US] - </li>
+ <li class="list-group-item list-group-item-warning">Bloxiq - </li>
+ <li class="list-group-item list-group-item-warning">Bit Dungeon Plus [US] - </li>
+ <li class="list-group-item list-group-item-warning">Bunny Must Die Chelsea  the 7Devils [JP] - </li>
+ <li class="list-group-item list-group-item-warning">CLOVER DAY'S MAKING FOR HAPPINESS - </li>
+ <li class="list-group-item list-group-item-warning">Chaos;Child [EU] - </li>
+ <li class="list-group-item list-group-item-warning">Castle Storm [CN] - </li>
+ <li class="list-group-item list-group-item-warning">Caligula －カリギュラ－ - </li>
+ <li class="list-group-item list-group-item-warning">COLLAR×MALICE UNLIMITED [JP] - </li>
+ <li class="list-group-item list-group-item-warning">Cosmic Star Heroine [US] - </li>
+ <li class="list-group-item list-group-item-warning">Claduns Return [US] - </li>
+ <li class="list-group-item list-group-item-warning">CORPSE PARTY BLOOD DRIVE [EU] - </li>
+ <li class="list-group-item list-group-item-warning">CORPSE PARTY BLOOD DRIVE [US] - </li>
+ <li class="list-group-item list-group-item-warning">CHUSINGURA46+1 -忠臣蔵46+1- V - </li>
+ <li class="list-group-item list-group-item-warning">Cure Mate Club - </li>
+ <li class="list-group-item list-group-item-warning">Chasm - </li>
+ <li class="list-group-item list-group-item-warning">DANGANRONPA V3 KILLING HARMONY [US] - </li>
+ <li class="list-group-item list-group-item-warning">Damascus Gear Operation Osaka [US] - </li>
+ <li class="list-group-item list-group-item-warning">Dragon Sinker - </li>
+ <li class="list-group-item list-group-item-warning">Day D Tower Rush [US] -   </li>
+ <li class="list-group-item list-group-item-warning">Darkest Dungeon [US] - </li>
+ <li class="list-group-item list-group-item-warning">Deemo The Last Recital [US] - </li>
+ <li class="list-group-item list-group-item-warning">Deep Ones [US] - </li>
+ <li class="list-group-item list-group-item-warning">Dino Dinis Kick Off Revival - </li>
+ <li class="list-group-item list-group-item-warning">Dying Reborn [CN] - </li>
+ <li class="list-group-item list-group-item-warning">Dying Reborn [JP] -   </li>
+ <li class="list-group-item list-group-item-warning">Dying Reborn [EU] -   </li>
+ <li class="list-group-item list-group-item-warning">Demetrios [EU] - </li>
+ <li class="list-group-item list-group-item-warning">Devious Dungeon [EU] - </li>
+ <li class="list-group-item list-group-item-warning">Dragon Ball Z: Battle Of Z - </li>
+ <li class="list-group-item list-group-item-warning">Element4l [AS] - </li>
+ <li class="list-group-item list-group-item-warning">Energy Balance [EU] - </li>
+ <li class="list-group-item list-group-item-warning">Energy Cycle [EU] - </li>
+ <li class="list-group-item list-group-item-warning">Energy Invasion [EU] - </li>
+ <li class="list-group-item list-group-item-warning">Energy Invasion [US] -   </li>
+ <li class="list-group-item list-group-item-warning">EPHEMERAL FANTASY ON DARK - </li>
+ <li class="list-group-item list-group-item-warning">Ethan : Meteor Hunter -   </li>
+ <li class="list-group-item list-group-item-warning">Eufloria HD - </li>
+ <li class="list-group-item list-group-item-warning">Exile's End - </li>
+ <li class="list-group-item list-group-item-warning">Final Fantasy X-2 HD - </li>
+ <li class="list-group-item list-group-item-warning">Fantasy Hero [AS] - </li>
+ <li class="list-group-item list-group-item-warning">FOREVOLUTION - </li>
+ <li class="list-group-item list-group-item-warning">Farming Simulator 18 - </li>
+ <li class="list-group-item list-group-item-warning">FLOWERS冬篇 - </li>
+ <li class="list-group-item list-group-item-warning">Fort Defense North Menace [US] -   </li>
+ <li class="list-group-item list-group-item-warning">Forma 8 - </li>
+ <li class="list-group-item list-group-item-warning">FORTUNE STREET DRAGON QUEST & FINAL FANTASY 30TH ANNIVERSARY - </li>
+ <li class="list-group-item list-group-item-warning">Furmins -   </li>
+ <li class="list-group-item list-group-item-warning">Full Blast [US] - </li>
+ <li class="list-group-item list-group-item-warning">Full Blast [EU] - </li>
+ <li class="list-group-item list-group-item-warning">Full Blast [AS] - </li>
+ <li class="list-group-item list-group-item-warning">Fernz Gate - </li>
+ <li class="list-group-item list-group-item-warning">Garou Mark of the Wolves - </li>
+ <li class="list-group-item list-group-item-warning">G O D E A T E R 2 R A G E B U R S T - </li>
+ <li class="list-group-item list-group-item-warning">God of War 2 -   </li>
+ <li class="list-group-item list-group-item-warning">GOD EATER 2 - </li>
+ <li class="list-group-item list-group-item-warning">GOD WARS THE COMPLETE LEGEND [JP] - </li>
+ <li class="list-group-item list-group-item-warning">God of War -   </li>
+ <li class="list-group-item list-group-item-warning">Gem Smashers - </li>
+ <li class="list-group-item list-group-item-warning">GOD EATER OFF SHOT ＜アリサ編＞ - </li>
+ <li class="list-group-item list-group-item-warning">GOD EATER OFF SHOT ＜コウタ編＞ - </li>
+ <li class="list-group-item list-group-item-warning">GOD EATER OFF SHOT ＜サクヤ編＞ - </li>
+ <li class="list-group-item list-group-item-warning">GOD EATER OFF SHOT ＜シオ編＞ - </li>
+ <li class="list-group-item list-group-item-warning">GOD EATER OFF SHOT ＜ソーマ編＞ - </li>
+ <li class="list-group-item list-group-item-warning">GOD EATER OFF SHOT ＜リンドウ編＞ - </li>
+ <li class="list-group-item list-group-item-warning">GOD EATER RESURRECTION - </li>
+ <li class="list-group-item list-group-item-warning">GUNDAM BREAKER 3 [JP] - </li>
+ <li class="list-group-item list-group-item-warning">HATSUNE MIKU PROJECT DIVA F 2ND - </li>
+ <li class="list-group-item list-group-item-warning">Hotline Miami - </li>
+ <li class="list-group-item list-group-item-warning">HAKUOKI EDO BLOSSOMS [EU] - </li>
+ <li class="list-group-item list-group-item-warning">Hatsune Miku -Project DIVA- F - </li>
+ <li class="list-group-item list-group-item-warning">HATSUNE MIKU PROJECT DIVA X - </li>
+ <li class="list-group-item list-group-item-warning">HTR+ Slot Car Simulation [US] - </li>
+ <li class="list-group-item list-group-item-warning">iO - </li>
+ <li class="list-group-item list-group-item-warning">Inksplosion [EU] - </li>
+ <li class="list-group-item list-group-item-warning">InkSplosion [US] - </li>
+ <li class="list-group-item list-group-item-warning">InkSplosion [AS] - </li>
+ <li class="list-group-item list-group-item-warning">Infinita Strada Hana [JP] - </li>
+ <li class="list-group-item list-group-item-warning">Iron Sea - </li>
+ <li class="list-group-item list-group-item-warning">Indoor Sports World -   </li>
+ <li class="list-group-item list-group-item-warning">Knight Solitaire - </li>
+ <li class="list-group-item list-group-item-warning">KickBeat - </li>
+ <li class="list-group-item list-group-item-warning">Knock-Knock [EU] - </li>
+ <li class="list-group-item list-group-item-warning">Knock-Knock [US] - </li>
+ <li class="list-group-item list-group-item-warning">Koi - </li>
+ <li class="list-group-item list-group-item-warning">Krinkle Krusher [EU] - </li>
+ <li class="list-group-item list-group-item-warning">Level 22 - </li>
+ <li class="list-group-item list-group-item-warning">Little Red Lie - </li>
+ <li class="list-group-item list-group-item-warning">League Of Evil [EU] - </li>
+ <li class="list-group-item list-group-item-warning">League of Evil [US] - </li>
+ <li class="list-group-item list-group-item-warning">LITTLE ADVENTURE ON THE PRAIRIE - </li>
+ <li class="list-group-item list-group-item-warning">Mahjong Carnival - </li>
+ <li class="list-group-item list-group-item-warning">Mercenary Kings - </li>
+ <li class="list-group-item list-group-item-warning">Midnight Deluxe [AS] - </li>
+ <li class="list-group-item list-group-item-warning">Midnight Deluxe [EU] - </li>
+ <li class="list-group-item list-group-item-warning">Mahjong Gold - </li>
+ <li class="list-group-item list-group-item-warning">Mahjong Royal Tower - </li>
+ <li class="list-group-item list-group-item-warning">Mahjong World Contest - </li>
+ <li class="list-group-item list-group-item-warning">Mediaval Defenders [US] -   </li>
+ <li class="list-group-item list-group-item-warning">Miku Miku Hockey [JP] - </li>
+ <li class="list-group-item list-group-item-warning">Mary Skelter Nightmares [EU] - </li>
+ <li class="list-group-item list-group-item-warning">Metropolis - Lux Obscura [US] - </li>
+ <li class="list-group-item list-group-item-warning">Mind Zero [JP] -  & </li>
+ <li class="list-group-item list-group-item-warning">Mutant Mudds Deluxe -   </li>
+ <li class="list-group-item list-group-item-warning">MLB 12 THE SHOW - </li>
+ <li class="list-group-item list-group-item-warning">MLB 15 - The Show -   </li>
+ <li class="list-group-item list-group-item-warning">Neo ATLAS 1469 -  & </li>
+ <li class="list-group-item list-group-item-warning">Nikoli V Slitherlink - </li>
+ <li class="list-group-item list-group-item-warning">Nihilumbra [AS] - </li>
+ <li class="list-group-item list-group-item-warning">NG - </li>
+ <li class="list-group-item list-group-item-warning">Ninja Usagimaru Two Tails Of Adventure [JP] - </li>
+ <li class="list-group-item list-group-item-warning">Ninja Usagimaru Two Tails Of Adventure [US] - </li>
+ <li class="list-group-item list-group-item-warning">Oddworld New 'n' Tasty - </li>
+ <li class="list-group-item list-group-item-warning">One Tap Hero [CN] - </li>
+ <li class="list-group-item list-group-item-warning">Pa Run -   </li>
+ <li class="list-group-item list-group-item-warning">PSYCHEDELICA OF THE ASHEN HAWK [AS] -</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    <div class="col">
+      
+<ul class="list-group">
+ <li class="list-group-item list-group-item-success">Psychedelica of the Ashen Hawk [EU-US] - </li>
+ <li class="list-group-item list-group-item-success">Psychedelica of the Black Butterfly [US] - </li>
+ <li class="list-group-item list-group-item-success">PSYCHEDELICA OF THE BLACK BUTTERFLY [AS] - </li>
+ <li class="list-group-item list-group-item-success">Pic-A-Pix Color [EU] - </li>
+ <li class="list-group-item list-group-item-success">Phineas  Ferb Day of Doofenshmirtz - </li>
+ <li class="list-group-item list-group-item-success">Penny-Punching Princess [US] - </li>
+ <li class="list-group-item list-group-item-success">PERSONA 3 DANCING MOON NIGHT [JP] - </li>
+ <li class="list-group-item list-group-item-success">PERSONA 5 DANCING STAR NIGHT [JP] - </li>
+ <li class="list-group-item list-group-item-success">PSYCHO-PASS Matory Happiness [JP] -  </li>
+ <li class="list-group-item list-group-item-success">Polara [US] - </li>
+ <li class="list-group-item list-group-item-success">Pumped BMX+ - </li>
+ <li class="list-group-item list-group-item-success">Punchline [EU] - </li>
+ <li class="list-group-item list-group-item-success">Rally Copters - </li>
+ <li class="list-group-item list-group-item-success">Rise Of Mana [JP] - </li>
+ <li class="list-group-item list-group-item-success">Reverie [EU] - </li>
+ <li class="list-group-item list-group-item-success">Reverie [US] - </li>
+ <li class="list-group-item list-group-item-success">Roundabout - </li>
+ <li class="list-group-item list-group-item-success">REWRITE HARVEST FESTA! -  & </li>
+ <li class="list-group-item list-group-item-success">Reverie [AS] - </li>
+ <li class="list-group-item list-group-item-success">Root Double -Before Crime After Days- Xtend Edition [US] - </li>
+ <li class="list-group-item list-group-item-success">RODEM THE WILD - </li>
+ <li class="list-group-item list-group-item-success">Royal Defense [US] -   </li>
+ <li class="list-group-item list-group-item-success">Royal Defense Invisible Threat [US] -   </li>
+ <li class="list-group-item list-group-item-success">Reゼロから始める異世界生活 - DEATH OR KISS - - </li>
+ <li class="list-group-item list-group-item-success">SD GUNDAM G GENERATION GENESIS - </li>
+ <li class="list-group-item list-group-item-success">Space Overlords - </li>
+ <li class="list-group-item list-group-item-success">Squares - </li>
+ <li class="list-group-item list-group-item-success">Shutushimi - </li>
+ <li class="list-group-item list-group-item-success">Spy Hunter -   </li>
+ <li class="list-group-item list-group-item-success">Super Destronaut DX [EU] - </li>
+ <li class="list-group-item list-group-item-success">Sound Shapes - </li>
+ <li class="list-group-item list-group-item-success">Space Hulk [EU] - </li>
+ <li class="list-group-item list-group-item-success">SpaceHulk [US] - </li>
+ <li class="list-group-item list-group-item-success">Squareboy vs Bullies [EU] - </li>
+ <li class="list-group-item list-group-item-success">Scram Kitty DX - </li>
+ <li class="list-group-item list-group-item-success">Sokoban Next - </li>
+ <li class="list-group-item list-group-item-success">STAY [US] - </li>
+ <li class="list-group-item list-group-item-success">Sir Eatsalot - </li>
+ <li class="list-group-item list-group-item-success">Stardew Valley - </li>
+ <li class="list-group-item list-group-item-success">Super Robot Wars X - </li>
+ <li class="list-group-item list-group-item-success">Star Wars Pinball - </li>
+ <li class="list-group-item list-group-item-success">Spacejacked - </li>
+ <li class="list-group-item list-group-item-success">Starry☆Sky～Spring Stories～ -   </li>
+ <li class="list-group-item list-group-item-success">SpongeBob HeroPants -   </li>
+ <li class="list-group-item list-group-item-success">Super Destronaut DX [US] - </li>
+ <li class="list-group-item list-group-item-success">SUPER SKULL SMASH GO! 2 TURBO - </li>
+ <li class="list-group-item list-group-item-success">Super Destronaut DX [EU] - </li>
+ <li class="list-group-item list-group-item-success">SUMMON NIGHT 6 LOST BORDERS [AS] - </li>
+ <li class="list-group-item list-group-item-success">Spiral Splatter [US] -   </li>
+ <li class="list-group-item list-group-item-success">Strike Solitaire [US] -   </li>
+ <li class="list-group-item list-group-item-success">Strike Solitaire 2 [US] -    </li>
+ <li class="list-group-item list-group-item-success">Super Hydrorah [US] - </li>
+ <li class="list-group-item list-group-item-success">Surge Deluxe - </li>
+ <li class="list-group-item list-group-item-success">Sword Art Online -Hollow Fragment-</li>
+ <li class="list-group-item list-group-item-success">Taco Master -   </li>
+ <li class="list-group-item list-group-item-success">The Swindle - </li>
+ <li class="list-group-item list-group-item-success">The Lost Child [US] - </li>
+ <li class="list-group-item list-group-item-success">Tetra's Escape [EU] - </li>
+ <li class="list-group-item list-group-item-success">The Dreamls - Aisling's Quest - </li>
+ <li class="list-group-item list-group-item-success">The Long Reach [US] - </li>
+ <li class="list-group-item list-group-item-success">The Labyrinth of Grisaia - </li>
+ <li class="list-group-item list-group-item-success">The Caligula Effect [JP] - </li>
+ <li class="list-group-item list-group-item-success">The Caligula Effect [US] -   </li>
+ <li class="list-group-item list-group-item-success">THE どこでもギャル麻雀 - </li>
+ <li class="list-group-item list-group-item-success">The Treasures of Montezuma 4 -   </li>
+ <li class="list-group-item list-group-item-success">The King Of Fighers 97 Global Match [EU] - </li>
+ <li class="list-group-item list-group-item-success">Total Recoil - </li>
+ <li class="list-group-item list-group-item-success">Twin Robots [US] - </li>
+ <li class="list-group-item list-group-item-success">Type Rider - </li>
+ <li class="list-group-item list-group-item-success">Utawarerumono Mask of Deception [EU] - </li>
+ <li class="list-group-item list-group-item-success">Utawarerumono Mask of Truth [EU] - </li>
+ <li class="list-group-item list-group-item-success">VA-11 Halla-a - </li>
+ <li class="list-group-item list-group-item-success">VitaminX Destination - </li>
+ <li class="list-group-item list-group-item-success">Valkyria Revolution - </li>
+ <li class="list-group-item list-group-item-success">Velocity 2X - </li>
+ <li class="list-group-item list-group-item-success">Venus Project [JP] - </li>
+ <li class="list-group-item list-group-item-success">Vertical Drop Heroes HD - </li>
+ <li class="list-group-item list-group-item-success">Vitamin Z - </li>
+ <li class="list-group-item list-group-item-success">Vostok Inc -   </li>
+ <li class="list-group-item list-group-item-success">VOLUME [HK] - </li>
+ <li class="list-group-item list-group-item-success">Waking Violet - </li>
+ <li class="list-group-item list-group-item-success">WAKE-UP CLUB - </li>
+ <li class="list-group-item list-group-item-success">World Of Final Fantasy - </li>
+ <li class="list-group-item list-group-item-success">Word Search by POWGI [US] - </li>
+ <li class="list-group-item list-group-item-success">Worms Revolution Extreme -   </li>
+ <li class="list-group-item list-group-item-success">Ys VIII -Lacrimosa of DANA- [US] - </li>
+ <li class="list-group-item list-group-item-success">Zen Pinball 2 - </li>
+ <li class="list-group-item list-group-item-success">ZERO ESCAPE ９時間９人９の扉 善人シボウデス ダブルパック -   </li>
+ <li class="list-group-item list-group-item-success">Zanki Zero Last Beginning - </li>
+ <li class="list-group-item list-group-item-success">ガンダムコンクエストV - </li>
+ <li class="list-group-item list-group-item-success">コープスパーティー BLOOD DRIVE - </li>
+ <li class="list-group-item list-group-item-success">ぎゃるガンヴォルト [JP] - </li>
+ <li class="list-group-item list-group-item-success">キャプテン・アース MIND LABYRINTH - </li>
+ <li class="list-group-item list-group-item-success">いろとりどりのセカイ WORLD’S END -REBIRTH- - </li>
+ <li class="list-group-item list-group-item-success">デュラララ!! Relay - </li>
+ <li class="list-group-item list-group-item-success">百華夜光 - </li>
+ <li class="list-group-item list-group-item-success">アルカナ・ファミリア Ancora - </li>
+ <li class="list-group-item list-group-item-success">はつゆきさくら - </li>
+ <li class="list-group-item list-group-item-success">グリザイアの果実 -LE FRUIT DE LA GRISAIA- - </li>
+ <li class="list-group-item list-group-item-success">グリザイアの果実スピンアウト！？ アイドル魔法少女ちるちる☆みちる - </li>
+ <li class="list-group-item list-group-item-success">グリザイア ファントムトリガー ０１＆０２ - </li>
+ <li class="list-group-item list-group-item-success">グリザイア ファントムトリガー ０３＆０４ - </li>
+ <li class="list-group-item list-group-item-success">グリザイアの楽園 -LE EDEN DE LA GRISAIA- - </li>
+ <li class="list-group-item list-group-item-success">ファタモルガーナの館 - </li>
+ <li class="list-group-item list-group-item-success">ソードアート・オンライン ―ホロウ・フラグメント― - </li>
+ <li class="list-group-item list-group-item-success">メモリーズオフ ゆびきりの記憶 - </li>
+ <li class="list-group-item list-group-item-success">ニューダンガンロンパＶ３　みんなのコロシアイ新学期 [JP] - </li>
+ <li class="list-group-item list-group-item-success">レイジングループ - </li>
+ <li class="list-group-item list-group-item-success">グリザイアの果実 SIDE EPISODE -   </li>
+ <li class="list-group-item list-group-item-success">スチームプリズン -七つの美徳- - </li>
+ <li class="list-group-item list-group-item-success">拡散性ミリオン - </li>
+ <li class="list-group-item list-group-item-success">東京喰種トーキョーグール ＪＡＩＬ - </li>
+ <li class="list-group-item list-group-item-success">機動戦士ガンダム バトルフォートレス - </li>
+ <li class="list-group-item list-group-item-success">時計仕掛けのレイライン-陽炎に彷徨う魔女- - </li>
+ <li class="list-group-item list-group-item-success">新・ロロナのアトリエ はじまりの物語～アーランドの錬金術士～ -  & </li>
+ <li class="list-group-item list-group-item-success">機動戦士ガンダムSEED BATTLE DESTINY - </li>
+ <li class="list-group-item list-group-item-success">真・ガンダム無双 - </li>
+ <li class="list-group-item list-group-item-success">カタハネ ―An' call Belle― - </li>
+ <li class="list-group-item list-group-item-success">うた組み５７５ - </li>
+ <li class="list-group-item list-group-item-success">魔法少女大戦 ZANBATSU - </li>
+ <li class="list-group-item list-group-item-success">慟哭そして… - </li>
+ <li class="list-group-item list-group-item-success">うたわれるもの 散りゆく者への子守唄 - </li>
+ <li class="list-group-item list-group-item-success">ノラと皇女と野良猫ハート -   </li>
+ <li class="list-group-item list-group-item-success">乙女理論とその周辺 -Bon Voyage- -   </li>
+ <li class="list-group-item list-group-item-success">パルフェ -   </li>
+ <li class="list-group-item list-group-item-success">英雄伝説 空の軌跡 the 3rd Evolution - </li>
+ <li class="list-group-item list-group-item-success">実況パワフルプロ野球２０１8 - </li>
+ <li class="list-group-item list-group-item-success">マンガ・カ・ケール - - </li>
+ <li class="list-group-item list-group-item-success">メモリーズオフ -Innocent Fille- - </li>
+ <li class="list-group-item list-group-item-success">遙かなる時空の中で Ultimate [JP] - </li>
+ <li class="list-group-item list-group-item-success">魔法電腦戰機 [CN] - </li>
+ <li class="list-group-item list-group-item-success">双星の陰陽師 -   </li>
+ <li class="list-group-item list-group-item-success">となりに彼女のいる幸せ ～Winter Guest～ - </li>
+ <li class="list-group-item list-group-item-success">セヴンデイズ あなたとすごす七日間 -</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+<div class="text-center" id="direitos">
+Copyright 2015 - 2019 LULLINHO. 
+<p class="justify-text">Todos os direitos reservados. </p>
+<a target="_blank" href="https://www.youtube.com/canaldoLULLINHOs2" class="fab fa-youtube"></a>
+<a target="_blank" href="https://www.facebook.com/felipee.lullio" class="fab fa-facebook-f"></a>
+<a href="https://api.whatsapp.com/send?phone=5511972586520&text=Oi,%20eu%20vi%20seu%20site" target="_blank" class="fab fa-whatsapp"></a>
+</div>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
+<script>
+$(document).ready(function(){
+    $('[data-toggle="popover"]').popover(); 
+});
+</script>
+
+
+<script type="text/javascript" src="script.js">
+</script>
+</body>
+</html>

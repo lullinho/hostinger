@@ -714,7 +714,7 @@ width="30px" height="30px"
 <p class="lead" align="justify">Caso queira, pode escolher: O intervalo da conquista e o último troféu a ser conquistado.</p>
 <button class="btn btn-lg btn-outline-secondary botaoPlatina" disabled>Método mais vendido!</button>
 
-<button class="btn btn-lg btn-outline-secondary" disabled>20 troféus = R$32</button>
+<button class="btn btn-lg btn-outline-secondary" disabled>R$6 por platina</button>
 <!--
 <button class="btn btn-lg btn-outline-secondary botaoPlatina" data-toggle="collapse" data-target="#pacote1" role="button" aria-expanded="false" aria-controls="collapseExample">
    Qual é o Preço?

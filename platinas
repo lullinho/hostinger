@@ -716,99 +716,16 @@ width="30px" height="30px"
 
 
 
-<button class="btn btn-lg btn-outline-secondary botaoPlatina"  role="button">
+<button class="btn btn-lg btn-outline-secondary botaoPlatina" data-toggle="collapse" data-target="#pacote1" role="button" aria-expanded="false" aria-controls="collapseExample">
    R$6 por platina
   </button>
   <hr/>
 
-
-<!--
-    <div class="row">
-      <div class="col-3">
-    <div class="nav flex-column nav-pills platinaPills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-
-      <a class="nav-link navBody nav-small" id="preco1-tab" data-toggle="pill" href="#preco1-pill" role="tab" aria-controls="preco1-pill" aria-selected="false">1 Platina por vez</a>
-      <a class="nav-link navBody nav-small" id="preco2-tab" data-toggle="pill" href="#preco2-pill" role="tab" aria-controls="preco2-pill" aria-selected="false">2 Platinas por vez</a>
-       <a class="nav-link navBody nav-small active" id="preco3-tab" data-toggle="pill" href="#preco3-pill" role="tab" aria-controls="preco3-pill" aria-selected="false">3 Platinas ou Mais</a>
-   
-         <a class="nav-link navBody" id="v-pills-alterar-tab" data-toggle="pill" href="#v-pills-alterar" role="tab" aria-controls="v-pills-alterar" aria-selected="false">Dá pra alterar uma platina feita?</a>
-            <a class="nav-link navBody" id="v-pills-deletar-tab" data-toggle="pill" href="#v-pills-deletar" role="tab" aria-controls="v-pills-deletar" aria-selected="false">Dá pra deletar uma platina feita?</a>
-
-    </div>
-  </div>
--->
-<!--
-<div class="col-9">
-  <div class="tab-content espacoRespostaDuvida" id="v-pills-tabContent">
-      <div class="tab-pane fade show active" id="preco3-pill" role="tabpanel" aria-labelledby="preco3-tab">
-
-        <div class="container">
-          <div class="jumbPlatina">
-
-       <div class="alert alert-info border border-info" role="alert">
-  <strong>O valor será de R$5 por platina.</strong>
-        </div>
-        <p>Ou seja, se você quiser 3 platinas, o valor será de R$15 (5x3).</p>
-        <p>3 platinas ou mais para serem feitas de uma vez, será cobrado R$5 por platina.
-
-          </div>
-      </div>
-
-  </div>
-
-
-
-       <div class="tab-pane fade" id="preco2-pill" role="tabpanel" aria-labelledby="preco2-tab">
-
-        <div class="container">
-          <div class="jumbPlatina">
-
-       <div class="alert alert-info border border-info" role="alert">
-  <strong>O valor será de R$6 por platina.</strong>
-        </div>
-        <p>Ou seja, se você quiser 2 platinas para serem feitas de uma vez, o valor será de R$12 (6x2).</p>
-
-          </div>
-      </div>
-
-  </div>
-
-
-       <div class="tab-pane fade" id="preco1-pill" role="tabpanel" aria-labelledby="preco1-tab">
-
-        <div class="container">
-          <div class="jumbPlatina">
-
-       <div class="alert alert-info border border-info" role="alert">
-  <strong>O valor será de R$7 por platina.</strong>
-        </div>
-        <p>Ou seja, se você quiser somente 1 platina, o valor será de R$7.</p>
-          </div>
-      </div>
-
   </div>
 
 </div>
-</div>
 
 
-</div>
-<div class="text-center">
-  <hr />
-<p class="text-center text-justify">Por vez = Sincronizar a platina no momento em que comprou. </p>
-<p class="text-justify">Exemplo 1: Você quer comprar 2 platinas, mas quer fazer uma agora e outra semana que vem, então será cobrado o valor de 1 platina por vez. </p>
-<p class="text-justify">Exemplo 2: Você quer comprar 2 platinas e elas podem ser feitas de uma vez. Irei sincronizar as duas platinas na sua conta numa só vez. Será cobrado o valor de 2 platinas por vez. </p>
-</div>
-
-
-
-  </div>
-</div>
-  </div>
-
-</div>
--->
-  <div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
   	
 
 <div class="jumbotron jumbotron-fluid jumbPlatina">

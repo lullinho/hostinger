@@ -791,7 +791,7 @@ width="30px" height="30px"
 
 </div>
 </div>
--->
+
 
 </div>
 <div class="text-center">
@@ -808,6 +808,7 @@ width="30px" height="30px"
   </div>
 
 </div>
+-->
   <div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
   	
 

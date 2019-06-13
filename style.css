@@ -232,6 +232,9 @@ height: 100%;
 
 }
 
+hr.hr1{
+  border-top: 1px solid red;
+}
 
 .fab{
   font-size: 30px;

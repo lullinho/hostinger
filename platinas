@@ -1012,7 +1012,7 @@ width="30px" height="30px"
 <div id="disqus_thread" class="comentarios1"></div>
 
         <br>
-        <div class="fb-comments" colorscheme="dark" data-colorscheme="dark" data-href="https://lullinhogames.com.br/platinas" data-numposts="5"></div>      
+        <div class="fb-comments" colorscheme="dark" data-colorscheme="dark" data-width="1100" data-href="https://lullinhogames.com.br/platinas" data-numposts="5"></div>      
 <div id="disqus_thread"></div>
 <script>
 

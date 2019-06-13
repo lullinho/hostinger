@@ -11,7 +11,7 @@ background-position: top center;
  
 }
 
-hr { display: block; height: 1px;
+hr.hr1 { display: block; height: 1px;
     border: 5; border-top: 1px solid white;
     margin: 1em 0; padding: 0; }
 

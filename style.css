@@ -10,6 +10,9 @@ background-position: top center;
 
  
 }
+hr{
+  color:white;
+}
 
 
 
@@ -245,8 +248,8 @@ height: 100%;
 }
 
 .fundo{
- 
-  
+  border: solid black 1px;
+  border-radius: 70px 70px 70px 70px;
 }
 
 .fab:hover {
@@ -701,7 +704,7 @@ img#callofduty{
 }
 
 .listagem-episodios .top-padrao{
-  background-color: ;
+  background-color: #2E2E2E;
   text-align: center;
   padding:21px;
   border-radius: 0px 0px 15px 15px;

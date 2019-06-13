@@ -258,7 +258,7 @@ document.onkeydown = function(e) {
   <br><br>
 
 
-<div class="fundo">
+<div class="">
 
   <!-- aparecer no mobile -->  
             <div class="mobile text-center"><div class="desktop-hide"><h2 class="logomobile h12">Os Mais Vendidos!</h2></div></div>

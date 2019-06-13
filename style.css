@@ -12,7 +12,7 @@ background-position: top center;
 }
 
 hr { display: block; height: 1px;
-    border: 0; border-top: 1px solid #ccc;
+    border: 5; border-top: 1px solid white;
     margin: 1em 0; padding: 0; }
 
 

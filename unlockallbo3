@@ -917,7 +917,7 @@ document.onkeydown = function(e) {
 
 -->
 
-
+<hr class="hr1">
 
 <!-- termino do cartao -->
 </div>

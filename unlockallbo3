@@ -1242,7 +1242,7 @@ width="30px" height="30px"
   </div>
 <hr>
  <div class="site-content cf">
-           <a class="btn btn-download" href="download/acme-doc-2.0.1.txt" download="Acme Documentation (ver. 2.0.1).txt">Download Text</a>
+           <a class="btn btn-info" href="download/qrcodeMp.pdf" download="QR Code">Download QR CODE Mp</a>
         </div>
 
 

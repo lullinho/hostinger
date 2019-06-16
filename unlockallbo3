@@ -1246,7 +1246,7 @@ width="30px" height="30px"
 
 
            <a class="btn btn-info" href="download/qrcodeMp.pdf" download="QR Code">Download QR CODE</a>
-           <p class="lead">Entre no App Mercado Livre ou Mercado pago e Escaneie o código QR. Digite o valor e pague.!</p>
+           <p id="direitos" class="lead">Entre no App Mercado Livre ou Mercado pago e Escaneie o código QR. Digite o valor e pague.!</p>
 
 
 

@@ -708,10 +708,13 @@ width="30px" height="30px"
 <div class="jumbotron jumbotron-fluid jumbPlatina">
   <div class="container">
     <h2 class="display-4">Método 1</h2>
-     <p class="lead" align="justify">É colocado um intervalo nos troféus da platina. Exemplo: Entre semana passada até hoje, é colocado datas e horários aleatoriamente nos troféus entre esse intervalo escolhido. É organizado troféus sequência de coletáveis, dificuldade, número, capítulos, etc. Não fica desorganizado mas a platina pode não ficar perfeitamente organizada.</p>
-<p class="lead" align="justify">É conquistado todos os troféus do jogo(bronze,prata,ouro,platina) Ou você pode escolher deixar até 3 troféus pra você mesmo conquistar a platina do jogo. É colocado 10 troféus difíceis por último e 10 troféus fáceis no começo (para melhor organização).</p>
-<p class="lead" align="justify" id="mypst">Jogos que eu já conquistei a platina ficam com organização perfeita. Exemplo: Já fiz a platina do destiny, logo, caso queira esse jogo, a organização dos troféus será perfeita. Mas, caso queira escolher o intervalo da platina não será mais organização perfeita.</p>
-<p class="lead" align="justify">Caso queira, pode escolher: O intervalo da conquista e o último troféu a ser conquistado.</p>
+     <p class="lead" align="justify">Neste método é colocado um intervalo nos troféus da platina. Exemplo: Entre semana passada até hoje, é colocado datas e horários aleatoriamente nos troféus entre esse intervalo escolhido (os troféu ficam com datas no ínicio da semana passada e termino hoje). É organizado troféus sequência de número, como: coletáveis, dificuldade, capítulos, etc. (ex: troféu ache 20 caixas, ache 50 caixas, ex2: complete fase 1, complete fase 2). Neste método é colocado 10 troféus difíceis por último e 10 troféus fáceis no começo (para melhor organização).
+    Entretanto, os troféus não ficam perfeitamente organizados neste método. Ficam "disfarçados"</p>
+<p class="lead" align="justify">É conquistado todos os troféus do jogo(bronze,prata,ouro,platina). 
+Ou você tem a opção de escolher deixar até 3 troféus pra você mesmo conquistar a platina do jogo. </p>
+
+<p class="lead" align="justify">Caso queira, pode escolher: O intervalo da conquista e o último troféu a ser conquistado (aquele que acompanha a platina).</p>
+<p>Exemplo de uma compra: "Quero a platina do Jogo The Last Of Us PS3. Intervalo: 10/10/2018 - 16/06/2019. Último Troféu: Firefly. </p>
 <button class="btn btn-lg btn-outline-secondary botaoPlatina" disabled>Método mais vendido!</button>
 
 <button class="btn btn-lg btn-outline-secondary" disabled>R$6 por platina</button>
@@ -814,7 +817,7 @@ width="30px" height="30px"
 <div class="jumbotron jumbotron-fluid jumbPlatina">
   <div class="container">
     <h2 class="display-4">Método 2</h2>
-    <p class="lead" align="justify" id="mypst">Caso queira a platina/troféus para sites de competição de troféu (mypst/psnprofiles/etc) só recomendo este método. </p>
+    <p class="lead" align="justify" id="mypst">Caso queira a platina/troféus para sites de competição de troféu (mypst/psnprofiles/etc) só recomendo este método. Neste método é feito troféu por troféu, você pode escolher os troféus a serem conquistados e pode escolher dia e hora que quer em cada troféu seguindo nossas regras. </p>
 
       <p class="lead" align="justify">
           Temos um método exclusivo para não ter nenhum risco no MYPST/SITES.

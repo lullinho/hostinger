@@ -917,11 +917,12 @@ document.onkeydown = function(e) {
 
 -->
 
-<hr class="hr1">
+
 
 <!-- termino do cartao -->
 </div>
 </div>
+<hr class="hr1">
 <div class="listagem-episodios comentarios pgn-single-episodio">
 
   <header class="top-padrao full-hidden">

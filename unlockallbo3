@@ -34,8 +34,7 @@
  <link rel="shortcut icon" href="favicon.ico" />
  <link rel="stylesheet" type="text/css" href="style.css">
 
-<link rel="preload" href="https://http2.mlstatic.com/ui/webfonts/v3.0.0/proxima-nova/proximanova-light.woff2" as="font" type="font/woff2" crossOrigin="anonymous" data-head-react="true"/><link rel="preload" href="https://http2.mlstatic.com/ui/webfonts/v3.0.0/proxima-nova/proximanova-regular.woff2" as="font" type="font/woff2" crossOrigin="anonymous" data-head-react="true"/><link rel="preload" href="https://http2.mlstatic.com/ui/webfonts/v3.0.0/proxima-nova/proximanova-semibold.woff2" as="font" type="font/woff2" crossOrigin="anonymous" data-head-react="true"/><style data-head-react="true">@font-face{font-family:'Proxima Nova';font-weight:300;font-display:swap;font-style:normal;src:url(https://http2.mlstatic.com/ui/webfonts/v3.0.0/proxima-nova/proximanova-light.woff2) format("woff2"),url(https://http2.mlstatic.com/ui/webfonts/v3.0.0/proxima-nova/proximanova-light.woff) format("woff"),url(https://http2.mlstatic.com/ui/webfonts/v3.0.0/proxima-nova/proximanova-light.ttf) format("truetype")}@font-face{font-family:'Proxima Nova';font-weight:400;font-display:swap;font-style:normal;src:url(https://http2.mlstatic.com/ui/webfonts/v3.0.0/proxima-nova/proximanova-regular.woff2) format("woff2"),url(https://http2.mlstatic.com/ui/webfonts/v3.0.0/proxima-nova/proximanova-regular.woff) format("woff"),url(https://http2.mlstatic.com/ui/webfonts/v3.0.0/proxima-nova/proximanova-regular.ttf) format("truetype")}@font-face{font-family:'Proxima Nova';font-weight:600;font-display:swap;font-style:normal;src:url(https://http2.mlstatic.com/ui/webfonts/v3.0.0/proxima-nova/proximanova-semibold.woff2) format("woff2"),url(https://http2.mlstatic.com/ui/webfonts/v3.0.0/proxima-nova/proximanova-semibold.woff) format("woff"),url(https://http2.mlstatic.com/ui/webfonts/v3.0.0/proxima-nova/proximanova-semibold.ttf) format("truetype")}</style><title>Pague com código QR e revolucione sua forma de pagar | Mercado Pago</title><meta name="description" content="Com o app do Mercado Pago, você compra sem abrir a carteira." data-head-react="true"/><link rel="canonical" href="https://www.mercadopago.com.br/pagar-com-qr" data-head-react="true"/><link href="https://http2.mlstatic.com/ui/webfonts/v4.2.0/proxima-nova/500-700-800.css" rel="stylesheet" type="text/css" />
-<link href="https://http2.mlstatic.com/resources/frontend/statics/nordic-frontend/marketing-mlb.desktop.16f408e6.css" rel="stylesheet" type="text/css" />
+
 
 
 <script>
@@ -1243,11 +1242,20 @@ width="30px" height="30px"
   </div>
 <hr class="hr1">
  <div class="text-center">
-             <h2 class="tt-padrao left"> Pague com QR-CODE</h2>
-             <div class="ui-animated-steps__container"><div class="ui-animated-steps__circle ui-animated-steps__animate--step1"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="38"><g fill="none" fill-rule="evenodd"><path fill="#99D8F4" d="M1 8h19v24H1z"></path><path stroke="#009EE3" stroke-width="1.5" d="M1 9.01V2.885C1 1.844 1.895 1 3 1h16c1.105 0 2 .844 2 1.885v32.324C21 36.2 20.15 37 19.1 37H2.9C1.85 37 1 36.198 1 35.21V9.01z"></path><path stroke="#009EE3" stroke-linecap="square" stroke-width="1.5" d="M8 5h6"></path></g></svg></div><div class="ui-animated-steps__line-container"><div class="ui-animated-steps__line--on ui-animated-steps__animate--line1"></div><div class="ui-animated-steps__line--off"></div></div><div class="ui-animated-steps__circle ui-animated-steps__animate--step2"><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48"><g fill="none" fill-rule="evenodd"><path fill="#009EE3" fill-rule="nonzero" d="M24 26v1h2v2h-2v-1h-2v-2h-4v-2h-2v-2h3v2h5v2zm5-2h-2v-2h4v4h-2v-2zm-5-8h2v4h-2v2h-2v-3h2v-2h-2v-5h4v2h-2v2zm0 17v1h-2v-4h2v1h2v2h-2zm9-9v-2h2v2h-1v3h1v2h-2v3h-2v-3h-3v-2h4v-3h1zm-3 10v2h-6v-2h4v-3h2v3zm-1-20v4h4v-4h-4zm0-2h6v8h-8v-8h2zM14 30v4h4v-4h-4zm0-2h6v8h-8v-8h2zm0-14v4h4v-4h-4zm0-2h6v8h-8v-8h2zm1 3h2v2h-2v-2zm0 16h2v2h-2v-2zm15-16h2v2h-2v-2zm-18 7h2v2h-2v-2zm12 0h2v2h-2v-2zm2 3h2v2h-2v-2zm0 4h2v2h-2v-2zm5 5h2v2h-2v-2zm2-2h2v2h-2v-2zm-19-8h2v2h-2v-2z"></path></g></svg></div><div class="ui-animated-steps__line-container"><div class="ui-animated-steps__line--on ui-animated-steps__animate--line2"></div><div class="ui-animated-steps__line--off"></div></div><div class="ui-animated-steps__circle ui-animated-steps__animate--step3"><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48"><g fill="none" fill-rule="evenodd"><path fill="#009EE3" fill-opacity="0.4" d="M29.397 17H8v4h32v-4h-9.002zM16.659 27.073a1.624 1.624 0 0 0-.456-.073h-2.406c-.158 0-.31.03-.456.073-.702.206-1.23.867-1.32 1.686-.009.08-.021.158-.021.242 0 1.103.805 1.999 1.797 1.999h2.406c.992 0 1.797-.896 1.797-2 0-.083-.013-.161-.021-.241-.09-.82-.618-1.48-1.32-1.686"></path><path stroke="#009EE3" stroke-width="1.5" d="M20.663 35H12a4 4 0 0 1-4-4V17a4 4 0 0 1 4-4h24a4 4 0 0 1 4 4v14a4 4 0 0 1-4 4z"></path></g></svg></div><div class="ui-animated-steps__line-container"><div class="ui-animated-steps__line--on ui-animated-steps__animate--line3"></div><div class="ui-animated-steps__line--off"></div></div><div class="ui-animated-steps__circle ui-animated-steps__animate--step4"><svg xmlns="http://www.w3.org/2000/svg" width="34" height="34"><g fill="none" fill-rule="evenodd" stroke="#009EE3" stroke-width="2" transform="translate(-7 -7)"><path stroke-linecap="round" stroke-linejoin="round" d="M15.63 25.443l5.175 5.19 11.297-12.224"></path><circle cx="24" cy="24" r="16"></circle></g></svg></div></div>
+             <h2 class="tt-padrao left text-center"> Pague com QR-CODE</h2>
+
 
            <a class="btn btn-info" href="download/qrcodeMp.pdf" download="QR Code">Download QR CODE</a>
-        </div>
+          <ul class="list-group list-group-flush">
+  <li class="list-group-item">Cras justo odio</li>
+  <li class="list-group-item">Dapibus ac facilisis in</li>
+  <li class="list-group-item">Morbi leo risus</li>
+  <li class="list-group-item">Porta ac consectetur ac</li>
+  <li class="list-group-item">Vestibulum at eros</li>
+</ul>
+
+
+  </div>
 
 
 </div>

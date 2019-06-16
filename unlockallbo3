@@ -1245,7 +1245,7 @@ width="30px" height="30px"
              <h2 class="tt-padrao left text-center"> Pague com QR-CODE</h2>
 
 
-           <a class="btn btn-info" href="download/qrcodeMp.pdf" download="QR Code">Download QR CODE</a>
+           <a class="btn btn-info border border-primary" href="download/qrcodeMp.pdf" download="QR Code">Download QR CODE</a>
            <p id="direitos" class="lead">Entre no App Mercado Livre ou Mercado pago e Escaneie o código QR. Digite o valor e pague.!</p>
 
 

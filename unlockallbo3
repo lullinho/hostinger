@@ -1240,7 +1240,7 @@ width="30px" height="30px"
 </script>
     </div>
   </div>
-<hr class="hr1">
+ <div class="dropdown-divider"></div>
  <div class="text-center">
                   
 

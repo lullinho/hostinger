@@ -711,7 +711,7 @@ img#callofduty{
   background-color: #2E2E2E;
   text-align: center;
   padding:21px;
-  border-radius: 0px 0px 15px 15px;
+  /*border-radius: 0px 0px 15px 15px;*/
   border: dotted #696969 1px;
   border-block-end-color: transparent;
  

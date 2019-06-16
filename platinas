@@ -708,9 +708,9 @@ width="30px" height="30px"
 <div class="jumbotron jumbotron-fluid jumbPlatina">
   <div class="container">
     <h2 class="display-4">Método 1</h2>
-     <p class="lead" align="justify">Neste método é colocado um intervalo nos troféus da platina. Exemplo: Entre semana passada até hoje, é colocado datas e horários aleatoriamente nos troféus entre esse intervalo escolhido (os troféu ficam com datas no ínicio da semana passada e termino hoje). É organizado troféus sequência de número, como: coletáveis, dificuldade, capítulos, etc. (ex: troféu ache 20 caixas, ache 50 caixas, ex2: complete fase 1, complete fase 2). 
+     <p class="lead" align="justify">Neste método é colocado um intervalo nos troféus da platina. Exemplo: Entre semana passada até hoje, é colocado datas e horários aleatoriamente nos troféus entre esse intervalo escolhido (os troféu ficam com datas no ínicio da semana passada e termino hoje). É organizado troféus sequência de número, como: coletáveis, dificuldade, capítulos, etc. (ex: troféu ache 20 caixas, ache 50 caixas, ex2: complete fase 1, complete fase 2). </p>
       <p class="lead" align="justify">Neste método é colocado 10 troféus difíceis por último e 10 troféus fáceis no começo (para melhor organização).</p>
-    Entretanto, os troféus não ficam perfeitamente organizados neste método. Ficam "disfarçados"</p>
+    <p class="lead" align="justify">Entretanto, os troféus não ficam perfeitamente organizados neste método. Ficam "disfarçados"</p>
 <p class="lead" align="justify">É conquistado todos os troféus do jogo(bronze,prata,ouro,platina). 
 Ou você tem a opção de escolher deixar até 3 troféus pra você mesmo conquistar a platina do jogo. </p>
 

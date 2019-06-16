@@ -673,7 +673,7 @@ img#callofduty{
 .top-padrao {
   background-color: #2E2E2E;
   padding: 15px 20px;
-  /*border-radius: 7px 7px 0 0;*/
+  border-radius: 7px 7px 0 0;
 
 
 }
@@ -711,8 +711,8 @@ img#callofduty{
   background-color: #2E2E2E;
   text-align: center;
   padding:21px;
-  /*border-radius: 0px 0px 15px 15px;*/
-  border: dotted #696969 1px;
+  border-radius: 0px 0px 15px 15px;
+  /*border: dotted #696969 1px;*/
   border-block-end-color: transparent;
  
 
@@ -725,7 +725,7 @@ img#callofduty{
   white-space: nowrap;
   text-overflow: ellipsis;
   font: 27px  bold;
-  /*border-radius: 15px 50px 30px 5px;*/
+  border-radius: 15px 50px 30px 5px;
 
 
 
@@ -861,7 +861,7 @@ height: 10px;
   white-space: nowrap;
   text-overflow: ellipsis;
   font: 22px  bold;
- /* border-radius: 15px 50px 30px 5px;*/
+  border-radius: 15px 50px 30px 5px;
 
 
 

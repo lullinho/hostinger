@@ -5,7 +5,7 @@
 	$message = $_POST['message'];
 
 
-	$email_form = 'felipe@lullinhogames.com.br';
+	$email_form = 'cursofiap@gmail.com';
 
 	$email_subject = "formulario";
 

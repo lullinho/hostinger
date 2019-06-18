@@ -5,9 +5,9 @@
 	$message = $_POST['message'];
 
 
-	$email_form = 'felipe@lullinhogames.com.br'
+	$email_form = 'felipe@lullinhogames.com.br';
 
-	$email_subject = "formulario"
+	$email_subject = "formulario";
 
 	$email_body = "User Name: $name.\n".
 				   "User email: $visitor_email.\n".

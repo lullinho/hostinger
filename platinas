@@ -164,19 +164,19 @@ document.onkeydown = function(e) {
         <a class="nav-link" href="https://lullinhogames.com.br/">  <span class="fas fa-home"></span> <!-- using a <span> element to reference the icon -->Home <span class="sr-only">(current)</span></a>
       </li>
    <li class="nav-item dropdown active" id="oi">
-        <a class="nav-link dropdown-toggle" href="unlockallbo3" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">  <span class="fas fa-medal"></span> <!-- using a <span> element to reference the icon -->
+        <a class="nav-link dropdown-toggle" href="unlockallbo3.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">  <span class="fas fa-medal"></span> <!-- using a <span> element to reference the icon -->
          Unlock All
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown" id="oi">
-          <a class="dropdown-item navItens" href="unlockallbo3" id="oi">Unlock All BO3 PS4</a>
+          <a class="dropdown-item navItens" href="unlockallbo3.html" id="oi">Unlock All BO3 PS4</a>
           <div class="dropdown-divider"></div>
-          <a class="dropdown-item" href="uacallofduty" id="oi">Unlock All  COD PS3</a>
+          <a class="dropdown-item" href="uacallofduty.html" id="oi">Unlock All  COD PS3</a>
         </div>
       </li>
  
   
            <li class="nav-item active">
-        <a class="nav-link current" href="platinas"><span class="fas fa-trophy"></span> Platinas</a>
+        <a class="nav-link current" href="platinas.html"><span class="fas fa-trophy"></span> Platinas</a>
       </li>
 
       <li class="nav-item active">
@@ -444,19 +444,19 @@ width="30px" height="30px"
 
 <div class="text-center">
 
-    <a href="jogospsvita" target="_blank">  <button type="button" class="btn btn-dark botaoPlatina" >
+    <a href="jogospsvita.html" target="_blank">  <button type="button" class="btn btn-dark botaoPlatina" >
   Lista Jogos PS VITA
 </button>
 </a>
 
-   <a href="jogosps4" target="_blank">  <button type="button" class="btn btn-success botaoPlatina" >
+   <a href="jogosps4.html" target="_blank">  <button type="button" class="btn btn-success botaoPlatina" >
   Lista Jogos PS4
 </button>
 </a>
    
 
 
- <a href="jogospsvitaexclusivo" target="_blank">  <button type="button" class="btn btn-primary botaoPlatina" >
+ <a href="jogospsvitaexclusivo.html" target="_blank">  <button type="button" class="btn btn-primary botaoPlatina" >
   Lista PS VITA Exclusivo
 </button>
 </a>
@@ -944,19 +944,19 @@ Ou você tem a opção de escolher deixar até 3 troféus pra você mesmo conqui
 
 <div class="text-center">
 
-    <a href="jogospsvita" target="_blank">  <button type="button" class="btn btn-dark botaoPlatina" >
+    <a href="jogospsvita.html" target="_blank">  <button type="button" class="btn btn-dark botaoPlatina" >
   Lista Jogos PS VITA
 </button>
 </a>
 
-   <a href="jogosps4" target="_blank">  <button type="button" class="btn btn-success botaoPlatina" >
+   <a href="jogosps4.html" target="_blank">  <button type="button" class="btn btn-success botaoPlatina" >
   Lista Jogos PS4
 </button>
 </a>
    
 
 
- <a href="jogospsvitaexclusivo" target="_blank">  <button type="button" class="btn btn-primary botaoPlatina" >
+ <a href="jogospsvitaexclusivo.html" target="_blank">  <button type="button" class="btn btn-primary botaoPlatina" >
   Lista Jogos EXCLUSIVO PS VITA
 </button>
 </a>

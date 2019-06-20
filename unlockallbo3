@@ -959,7 +959,7 @@ width="30px" height="30px"
     <p class="lead">Você pode criar uma conta nova caso prefira assim.</p>
     <p class="lead">Após a sua compra, entramos em sua conta PSN e fazemos a conquista de tudo descrito no pacote que escolheu. </p>
     <p class="lead">Todos os dados da sua conta serão substituídos pelo do pacote.</p>
-    <p class="lead">Todos os itens mercado negro que você tiver na sua conta irão se manter na sua conta.</p>
+    <p class="lead">Todos os itens mercado negro que você tiver na sua conta irão se manter na sua conta. Mas as suas armas do mercado negro voltam pro level 1 caso você já tenha nível nelas.</p>
     <p class="lead">Pode entrar em contato direto comigo, pelo WhatsApp, E-mail, Facebook ou PSN.</p>
      <button type="button" class="btn btn-success btn-lg" data-toggle="modal" data-target="#exampleModal">
   Contato
@@ -1005,7 +1005,6 @@ width="30px" height="30px"
     <p class="lead">Não há nenhum risco nos serviços que fazemos.</p>
     <p class="lead">Ninguém nunca foi banido ou tomou reset.</p>
     <p class="lead">Risco de 0%, impossível de ser resetado ou banido.</p>
-    <p class="lead">Fazemos este serviço desde 2015.</p>
     
      <button type="button" class="btn btn-success btn-lg" data-toggle="modal" data-target="#exampleModal36">
   Contato

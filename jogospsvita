@@ -1,0 +1,508 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-1003873120428435",
+    enable_page_level_ads: true
+  });
+</script>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/css/bootstrap.min.css" integrity="sha384-Smlep5jCw/wG7hdkwQ/Z5nLIefveQRIY9nfy6xoR1uRYBtpZgI6339F5dgvm/e9B" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+
+<link href="https://fonts.googleapis.com/css?family=Poiret+One" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet" type="text/css">
+ <link rel="shortcut icon" href="favicon.ico" />
+
+
+<link rel="stylesheet" type="text/css" href="style.css">
+	<title>PLATINAS DE PS VITA</title>
+	<!--<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
+
+
+     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<link rel="stylesheet" href="maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+  -->
+ 
+<script>
+$(document).keydown(function (event) {
+    if (event.keyCode == 123) { 
+        return false;
+    }
+});
+
+if (event.ctrlKey && event.shiftKey && event.keyCode == 73) { 
+        return false;
+    }
+
+</script>
+
+<script language="JavaScript">
+
+
+ 
+//////////F12 disable code////////////////////////
+    document.onkeypress = function (event) {
+        event = (event || window.event);
+        if (event.keyCode == 123) {
+           //alert('No F-12');
+            return false;
+        }
+    }
+    document.onmousedown = function (event) {
+        event = (event || window.event);
+        if (event.keyCode == 123) {
+            //alert('No F-keys');
+            return false;
+        }
+    }
+document.onkeydown = function (event) {
+        event = (event || window.event);
+        if (event.keyCode == 123) {
+            //alert('No F-keys');
+            return false;
+        }
+    }
+/////////////////////end///////////////////////
+ 
+ 
+//Disable right click script 
+//visit http://www.rainbow.arch.scriptmania.com/scripts/ 
+var message="Sorry, right-click has been disabled"; 
+/////////////////////////////////// 
+function clickIE() {if (document.all) {(message);return false;}} 
+function clickNS(e) {if 
+(document.layers||(document.getElementById&&!document.all)) { 
+if (e.which==2||e.which==3) {(message);return false;}}} 
+if (document.layers) 
+{document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;} 
+else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;} 
+document.oncontextmenu=new Function("return false") 
+// 
+function disableCtrlKeyCombination(e)
+{
+//list all CTRL + key combinations you want to disable
+var forbiddenKeys = new Array('a', 'n', 'c', 'x', 'v', 'j' , 'w', 'u', 'p', 'i');
+var key;
+var isCtrl;
+if(window.event)
+{
+key = window.event.keyCode;     //IE
+if(window.event.ctrlKey)
+isCtrl = true;
+else
+isCtrl = false;
+}
+else
+{
+key = e.which;     //firefox
+if(e.ctrlKey)
+isCtrl = true;
+else
+isCtrl = false;
+}
+//if ctrl is pressed check if other key is in forbidenKeys array
+if(isCtrl)
+{
+for(i=0; i<forbiddenKeys.length; i++)
+{
+//case-insensitive comparation
+if(forbiddenKeys[i].toLowerCase() == String.fromCharCode(key).toLowerCase())
+{
+alert('Key combination CTRL + '+String.fromCharCode(key) +' has been disabled.');
+return false;
+}
+}
+}
+return true;
+}
+ 
+//ctrl+u not allowed
+document.onkeydown = function(e) {
+        if (e.ctrlKey && 
+             e.keyCode === 86 || 
+            (e.keyCode === 67 || 
+              e.keyCode === 65 ||
+             e.keyCode === 85 || 
+             e.keyCode === 117)) {
+          //  alert('Esse site não está mais disponível!');
+            return false;
+        } else {
+            return false;
+        }
+};
+ 
+</script>
+	
+</head>
+<body oncontextmenu="return false" ondragstart="return false" onselectstart="return false">
+
+
+
+
+<section style="background: #f1c40f; color: rgba(0, 0, 0, 0.5);">
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark navbarOutro shift">
+  <a class="navbar-brand" href="https://lullinhogames.com.br/">LULLINHO GAMES</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+
+        <a class="nav-link" href="https://lullinhogames.com.br/">  <span class="fas fa-home"></span> <!-- using a <span> element to reference the icon -->Home <span class="sr-only">(current)</span></a>
+      </li>
+   <li class="nav-item dropdown active" id="oi">
+        <a class="nav-link dropdown-toggle" href="unlockallbo3" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">  <span class="fas fa-medal"></span> <!-- using a <span> element to reference the icon -->
+         Unlock All
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown" id="oi">
+          <a class="dropdown-item navItens" href="unlockallbo3" id="oi">Unlock All BO3 PS4</a>
+          <div class="dropdown-divider"></div>
+          <a class="dropdown-item" href="unlockallcallofduty" id="oi">Unlock All  COD PS3</a>
+        </div>
+      </li>
+ 
+  
+           <li class="nav-item active">
+        <a class="nav-link current" href="platinas"><span class="fas fa-trophy"></span> Platinas</a>
+      </li>
+
+      <li class="nav-item active">
+        <a class="nav-link textoNav" data-toggle="modal" data-target="#exampleModal4" href="#"><span class="fas fa-users"></span> Contato
+
+
+        </a>
+          <div class="modal fade" id="exampleModal4" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel"><span class="fas fa-user-secret"></span> Contato do LULLINHO</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+     <div class="modal fade" id="exampleModal4" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel"><span class="fas fa-user-secret"></span> Contato do LULLINHO</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+
+        <div id="espacoContato">
+<a href="https://www.youtube.com/canaldoLULLINHOs2" target="_blank">  <button type="button" class="btn btn-danger botaoPlatina" >
+  Youtube: canaldoLULLINHOs2 <span class="fab fa-youtube navFab"></span>
+</button>
+</a>
+</div>
+
+
+        <div id="espacoContato">
+    <a href="https://api.whatsapp.com/send?phone=5511972586520&text=Oi,%20quero%20tirar%20uma%20dúvida" target="_blank">  <button type="button" class="btn btn-success botaoPlatina" >
+   WhatsApp: (11) 97258-6520 <span class="fab fa-whatsapp navFab"></span>
+</button>
+</a>
+</div>
+
+<div id="espacoContato">
+ <a href="https://www.messenger.com/t/felipee.lullio" target="_blank">  <button type="button" class="btn btn-info botaoPlatina" >
+  Facebook: felipee.lullio <span class="fab fa-facebook-f navFab"></span> 
+</button>
+</a>
+</div>
+
+
+
+
+<div id="espacoContato">
+ <a href="http://mypst.com.br/rank/x-LULLINHO/#!perfil" target="_blank">  <button type="button" class="btn btn-primary botaoPlatina" >
+  PSN: x-LULLINHO <span class="fab fa-playstation navFab"></span> 
+</button>
+</a>
+</div>
+      <div class="text-center">
+           <div class="dropdown-divider"></div>
+      <p class=" text-justify"> Clique em algum botão para efetuar sua ação de entrar em contato com o vendedor LULLINHO.</p>
+    </div>
+       
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Sair</button>
+        <button type="button" class="btn btn-primary" data-dismiss="modal">Entendido!</button>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+      </li> 
+
+<br/>
+    </ul>
+<br/>     
+    <a target="_blank" href="https://perfil.mercadolivre.com.br/LULLINHO_GAMES"><button class="btn btn-outline-success my-2 my-sm-0" type="submit" id="reputacao"> Reputação LULLINHO</button></a>
+</nav>
+</section>
+
+<!--
+<div>
+<img class="foto" src="template bo3 ua top.png">
+
+</div>
+-->
+
+
+
+<br>
+<div class="titulo"> 
+	<h1> Jogos PS VITA </h1>
+  <br><br>
+
+<div class="text-center">
+
+    <a href="jogospsvita" target="_blank">  <button type="button" class="btn btn-dark btn-lg botaoPlatina" >
+  Lista Jogos PS VITA
+</button>
+</a>
+
+   <a href="jogosps4" target="_blank">  <button type="button" class="btn btn-success btn-lg botaoPlatina" >
+  Lista Jogos PS4
+</button>
+</a>
+   
+
+
+ <a href="jogospsvitaexclusivo" target="_blank">  <button type="button" class="btn btn-primary btn-lg botaoPlatina" >
+  Lista Jogos EXCLUSIVO PS VITA
+</button>
+</a>
+
+
+<a href="https://www.exophase.com/platform/ps3/" target="_blank">  <button type="button" class="btn btn-danger btn-lg botaoPlatina" >
+  LISTA COMPLETA PS3
+</button>
+</a>
+
+
+</div>
+<br>
+  <p class="lead"> LISTA de Jogos de PS VITA crossplataform com PS3 que dá para fazer platina!
+</div>
+<br>
+
+
+
+
+<div class="container">
+  <div class="row">
+    <div class="col">
+<ul class="list-group">
+	<ul class="text-center">Jogos de PS VITA com Platina</ul>
+ <li class="list-group-item list-group-item-warning">Aegis of Earth: Protonovus Assault</li>
+ <li class="list-group-item list-group-item-warning"> Attack on Titan: Wings of Freedom</li>
+ <li class="list-group-item list-group-item-warning"> Atelier Rorona Plus: The Alchemist of Arland [JAP</li>
+ <li class="list-group-item list-group-item-warning"> Atelier Rorona Plus ~The Alchemist of Arland~ [EU</li>
+ <li class="list-group-item list-group-item-warning"> Atelier Sophie The Alchemist of the Wonder Book</li>
+ <li class="list-group-item list-group-item-warning"> BADLAND</li>
+ <li class="list-group-item list-group-item-warning"> Dai-3-Ji Super Robot Taisen Z Jigoku-hen [JAP]</li>
+ <li class="list-group-item list-group-item-warning"> Dai-3-Ji Super Robot Taisen Z Tengoku-hen [JAP]</li>
+ <li class="list-group-item list-group-item-warning"> Deception IV: Blood Ties [JAP]</li>
+ <li class="list-group-item list-group-item-warning"> Deception IV: Blood Ties [EUR]</li>
+ <li class="list-group-item list-group-item-warning"> Deception IV: Blood Ties [USA]</li>
+ <li class="list-group-item list-group-item-warning"> Deception IV: The Nightmare Princess</li>
+ <li class="list-group-item list-group-item-warning"> Deception IV: The Nightmare Princess [EUR]</li>
+ <li class="list-group-item list-group-item-warning"> Deception IV: The Nightmare Princess [JAP]</li>
+ <li class="list-group-item list-group-item-warning"> Dengeki Bunko: Fighting Climax [JAP]</li>
+ <li class="list-group-item list-group-item-warning"> Dengeki Bunko: Fighting Climax [CHN]</li>
+ <li class="list-group-item list-group-item-warning"> Dengeki Bunko: Fighting Climax Ignition [JAP]</li>
+ <li class="list-group-item list-group-item-warning"> Dragon Ball Z: Battle of Z</li>
+ <li class="list-group-item list-group-item-warning"> Dragon Fantasy Book II</li>
+ <li class="list-group-item list-group-item-warning"> Dragon Fin Soup</li>
+ <li class="list-group-item list-group-item-warning"> Dragon's Crown</li>
+ <li class="list-group-item list-group-item-warning"> Dragon Quest Builders [JAP]</li>
+ <li class="list-group-item list-group-item-warning"> Dragon Quest Heroes II</li>
+ <li class="list-group-item list-group-item-warning"> Dynasty Warriors 8: Xtreme Legends [CHN]</li>
+ <li class="list-group-item list-group-item-warning"> DYNASTY WARRIORS 8: Xtreme Legends</li>
+ <li class="list-group-item list-group-item-warning"> Dynasty Warriors 8: Xtreme Legends [JAP]</li>
+ <li class="list-group-item list-group-item-warning"> Dynasty Warriors 8: Empires [JAP]</li>
+ <li class="list-group-item list-group-item-warning"> Dynasty Warriors: Gundam Musou [JAP]</li>
+ <li class="list-group-item list-group-item-warning"> Dynasty Warriors: Godseekers [JAP]</li>
+ <li class="list-group-item list-group-item-warning"> Escape Dead Island</li>
+ <li class="list-group-item list-group-item-warning"> E.X. Troopers [JAP]</li>
+ <li class="list-group-item list-group-item-warning"> Final Fantasy X HD Remaster</li>
+ <li class="list-group-item list-group-item-warning"> Final Fantasy X-2 HD Remaster</li>
+ <li class="list-group-item list-group-item-warning"> Guacamelee! Gold Edition [JAP]</li>
+ <li class="list-group-item list-group-item-warning"> Guacamelee! [EUR/USA]</li>
+ <li class="list-group-item list-group-item-warning"> Guilty Gear Xrd: Sign</li>
+ <li class="list-group-item list-group-item-warning"> Guilty Gear Xrd -Revelator- Trophy</li>
+ <li class="list-group-item list-group-item-warning"> Gundam Breaker 2 [JAP]</li>
+ <li class="list-group-item list-group-item-warning"> Hatsune Miku: Project Diva f [JAP]</li>
+ <li class="list-group-item list-group-item-warning"> Hatsune Miku: Project Diva f 2nd [JAP]</li>
+ <li class="list-group-item list-group-item-warning"> Helldivers</li>
+ <li class="list-group-item list-group-item-warning"> Higurashi No Naku Koro Ni Sui [JAP]</li>
+ <li class="list-group-item list-group-item-warning"> Hotline Miami</li>
+ <li class="list-group-item list-group-item-warning"> Hotline Miami 2: Wrong Number</li>
+ <li class="list-group-item list-group-item-warning"> Infinite Stratos 2: Ignition Hearts [JAP]</li>
+ <li class="list-group-item list-group-item-warning"> Infinite Stratos 2: Love And Purge [JAP]</li>
+ <li class="list-group-item list-group-item-warning"> Jikkyou: Real Powerful Pro Baseball 2013 [JAP]</li>
+ <li class="list-group-item list-group-item-warning"> Jikkyou: Real Powerful Pro Baseball 2014 [JAP]</li>
+ <li class="list-group-item list-group-item-warning"> J-Stars Victory Vs [JAP]</li>
+ <li class="list-group-item list-group-item-warning"> J-STARS Victory VS+</li>
+ <li class="list-group-item list-group-item-warning"> J-STARS Victory VS+ [EUR]</li>
+ <li class="list-group-item list-group-item-warning"> Kamen Rider: Battride War Genesis [JAP]</li>
+ <li class="list-group-item list-group-item-warning"> Let's Make A Pro Soccer Club!: Sakatsuku Purosakk</li>
+ <li class="list-group-item list-group-item-warning"> Lone Survivor</li>
+ <li class="list-group-item list-group-item-warning"> Mahjong Haoh: Dankyuu Battle 3 [JAP]</li>
+ <li class="list-group-item list-group-item-warning"> Metropolis Defenders</li>
+ <li class="list-group-item list-group-item-warning"> Natural Doctrine [JAP]</li>
+ <li class="list-group-item list-group-item-warning"> Nights of Azure</li>
+ <li class="list-group-item list-group-item-warning"> Nobunaga's Ambition: Creation [CHN]</li>
+ <li class="list-group-item list-group-item-warning"> Nobunaga's Ambition: Sphere of Influence</li>
+ <li class="list-group-item list-group-item-warning"> Nobunaga's Ambition: Sphere of Influence - Ascens</li>
+ <li class="list-group-item list-group-item-warning"> Oddworld: New 'n' Tasty</li>
+ <li class="list-group-item list-group-item-warning"> Odin Sphere Leifthrasir</li>
+ <li class="list-group-item list-group-item-warning"> Odin Sphere Leifthrasir [JAP]</li>
+ <li class="list-group-item list-group-item-warning"> One Piece: Unlimited World Red</li>
+ <li class="list-group-item list-group-item-warning"> One Piece: Pirate Warriors 2 [JAP]</li>
+ <li class="list-group-item list-group-item-warning"> One Piece: Pirate Warriors 3</li>
+ <li class="list-group-item list-group-item-warning"> One Piece: Pirate Warriors 3 [JAP]</li>
+ <li class="list-group-item list-group-item-warning"> Ragnarok Odyssey ACE</li>
+ <li class="list-group-item list-group-item-warning"> Rainbow Moon</li>
+ <li class="list-group-item list-group-item-warning"> Ratchet & Clank: Into the Nexus™</li>
+ <li class="list-group-item list-group-item-warning"> Ratchet & Clank™: Full Frontal Assault</li>
+ <li class="list-group-item list-group-item-warning"> Resogun</li>
+ <li class="list-group-item list-group-item-warning"> Rogue Legacy</li>
+ <li class="list-group-item list-group-item-warning"> Rogue Legacy [JAP]</li>
+ <li class="list-group-item list-group-item-warning"> Samurai Warriors 4 [EUR/USA]</li>
+ <li class="list-group-item list-group-item-warning"> Samurai Warriors 4 [JAP]</li>
+ <li class="list-group-item list-group-item-warning"> SAMURAI WARRIORS 4 Empires</li>
+ <li class="list-group-item list-group-item-warning"> Samurai Warriors 4 Empires [JAP]</li>
+ <li class="list-group-item list-group-item-warning"> Samurai Warriors 4-II</li>
+ <li class="list-group-item list-group-item-warning"> Samurai Warriors 4-II [JAP]</li>
+ <li class="list-group-item list-group-item-warning"> Samurai Warriors 2 with Xtreme Legends HD [JAP]</li>
+ <li class="list-group-item list-group-item-warning"> Shovel Knight</li>
+ <li class="list-group-item list-group-item-warning"> Super Hero Generation [JAP]</li>
+ <li class="list-group-item list-group-item-warning"> Super Robot Taisen OG Saga: Masou Kishin III - Pr</li>
+ <li class="list-group-item list-group-item-warning"> Sword Art Online: Lost Song</li>
+ <li class="list-group-item list-group-item-warning"> Teslagrad</li>
+ <li class="list-group-item list-group-item-warning"> The Legend of Heroes: Trails of Cold</li>
+ <li class="list-group-item list-group-item-warning"> The Legend of Heroes: Trails of Cold Steel II</li>
+ <li class="list-group-item list-group-item-warning"> The Legend of Heroes: Trails of Cold Steel 2 [JAP</li>
+ <li class="list-group-item list-group-item-warning"> The Treasures of Montezuma 4</li>
+ <li class="list-group-item list-group-item-warning"> Toukiden 2</li>
+ <li class="list-group-item list-group-item-warning"> Turbo: Super Stunt Squad</li>
+ <li class="list-group-item list-group-item-warning"> Utawarerumono: Futari no Hakuoro [JAP]</li>
+ <li class="list-group-item list-group-item-warning"> Velocity®Ultra</li>
+ <li class="list-group-item list-group-item-warning"> Warriors Orochi 2 Ultimate [JAP] - Musou Orochi 2</li>
+ <li class="list-group-item list-group-item-warning"> Warriors Orochi 3: Ultimate</li>
+ <li class="list-group-item list-group-item-warning"> Winning Post 8 2015</li>
+ <li class="list-group-item list-group-item-warning"> Winning Post 8</li>
+ <li class="list-group-item list-group-item-warning"> Winning Post 8 2016</li>
+ <li class="list-group-item list-group-item-warning"> Zombie Tycoon II: Brainhov's Revenge</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+    </div>
+    <div class="col">
+
+<ul class="list-group">
+	<ul class="text-center">Jogos de PS VITA 100% (não tem platina)</ul>
+ <li class="list-group-item list-group-item-info">A Boy and His Blob</li>
+ <li class="list-group-item list-group-item-info"> Another World</li>
+ <li class="list-group-item list-group-item-info"> Back to Bed</li>
+ <li class="list-group-item list-group-item-info"> Bentley's Hackpack™</li>
+ <li class="list-group-item list-group-item-info"> Best of Board Games</li>
+ <li class="list-group-item list-group-item-info"> CastleStorm</li>
+ <li class="list-group-item list-group-item-info"> CounterSpy™</li>
+ <li class="list-group-item list-group-item-info"> Divekick [EUR/USA]</li>
+ <li class="list-group-item list-group-item-info"> Doki-Doki Universe™</li>
+ <li class="list-group-item list-group-item-info"> Dragon Fantasy Book I</li>
+ <li class="list-group-item list-group-item-info"> Duke Nukem 3D Megaton Edition</li>
+ <li class="list-group-item list-group-item-info"> Dustforce</li>
+ <li class="list-group-item list-group-item-info"> Entwined</li>
+ <li class="list-group-item list-group-item-info"> FEZ</li>
+ <li class="list-group-item list-group-item-info"> Germinator</li>
+ <li class="list-group-item list-group-item-info"> Hohokum [USA]</li>
+ <li class="list-group-item list-group-item-info"> Invokers Tournament [EUR]</li>
+ <li class="list-group-item list-group-item-info"> Knytt Underground</li>
+ <li class="list-group-item list-group-item-info"> Luftrausers</li>
+ <li class="list-group-item list-group-item-info"> Metal Slug 3</li>
+ <li class="list-group-item list-group-item-info"> MouseCraft</li>
+ <li class="list-group-item list-group-item-info"> MsGerminator</li>
+ <li class="list-group-item list-group-item-info"> Mutant Mudds Deluxe</li>
+ <li class="list-group-item list-group-item-info"> OlliOlli</li>
+ <li class="list-group-item list-group-item-info"> Proteus</li>
+ <li class="list-group-item list-group-item-info"> Race The Sun</li>
+ <li class="list-group-item list-group-item-info"> Retro City Rampage</li>
+ <li class="list-group-item list-group-item-info"> Retro City Rampage™ DX</li>
+ <li class="list-group-item list-group-item-info"> Shake Spears!</li>
+ <li class="list-group-item list-group-item-info"> Sky Force Anniversary</li>
+ <li class="list-group-item list-group-item-info"> Spelunky</li>
+ <li class="list-group-item list-group-item-info"></li>
+ <li class="list-group-item list-group-item-info"> Sparkle Unleashed</li>
+ <li class="list-group-item list-group-item-info"> Stealth Inc.</li>
+ <li class="list-group-item list-group-item-info"> Stealth Inc 2: A Game of Clones</li>
+ <li class="list-group-item list-group-item-info"> Stick It To the Man</li>
+ <li class="list-group-item list-group-item-info"> Superfrog</li>
+ <li class="list-group-item list-group-item-info"> The Bridge</li>
+ <li class="list-group-item list-group-item-info"> The Swapper</li>
+ <li class="list-group-item list-group-item-info"> The Swindle</li>
+ <li class="list-group-item list-group-item-info"> Thomas Was Alone</li>
+ <li class="list-group-item list-group-item-info"> Tiny Troopers Joint Ops</li>
+ <li class="list-group-item list-group-item-info"> Titan Attacks!</li>
+ <li class="list-group-item list-group-item-info"> Treasures of Montezuma Arena</li>
+ <li class="list-group-item list-group-item-info"> Ultratron</li>
+ <li class="list-group-item list-group-item-info"> When Vikings Attack!</li>
+</ul>
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="text-center" id="direitos">
+Copyright 2015 - 2019 LULLINHO. 
+<p class="justify-text">Todos os direitos reservados. </p>
+<a target="_blank" href="https://www.youtube.com/canaldoLULLINHOs2" class="fab fa-youtube"></a>
+<a target="_blank" href="https://www.facebook.com/felipee.lullio" class="fab fa-facebook-f"></a>
+<a href="https://api.whatsapp.com/send?phone=5511972586520&text=Oi,%20eu%20vi%20seu%20site" target="_blank" class="fab fa-whatsapp"></a>
+</div>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
+<script>
+$(document).ready(function(){
+    $('[data-toggle="popover"]').popover(); 
+});
+</script>
+<script type="text/javascript" src="script.js">
+</script>
+</body>
+</html>

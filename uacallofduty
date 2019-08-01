@@ -999,7 +999,7 @@ s.setAttribute('data-timestamp', +new Date());
 <a id="icones" href="https://api.whatsapp.com/send?phone=5511972586520&text=Oi,%20eu%20vi%20seu%20site" target="_blank" class="fab fa-whatsapp"></a>
                     </ul>
                 </div>
-                <div class="col-sm-6">
+                <div class="col-sm-6 text-center">
                     <h5 id="listaPla">Sobre nós</h5>
                     <ul>
                         <li><a id="listaFooter" href="#">Fazemos Serviços desde 2013 </a></li>

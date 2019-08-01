@@ -1002,12 +1002,12 @@ s.setAttribute('data-timestamp', +new Date());
                 <div class="col-sm-6 text-center">
                     <h5 id="listaPla">Sobre nós</h5>
                     <ul>
-                        <li><a id="listaFooter" href="#">Fazemos Serviços desde 2013 </a></li>
-                        <li><a id="listaFooter" href="#">+ de 10 MIL Vendas</a></li>
-                        <li><a target="_blank" href="www.perfil.mercadolivre.com.br/LULLINHO_GAMES">Veja Algumas Avaliações</a></li>
+                        <li><a id="listaFooter">Fazemos Serviços desde 2013 </a></li>
+                        <li><a id="listaFooter" >+ de 15.000 Vendas</a></li>
+                        <li><a target="_blank" href="www.perfil.mercadolivre.com.br/LULLINHO_GAMES">Veja Algumas Avaliações do ML</a></li>
                     </ul>
                 </div>
-                <!--
+                
                 <div class="col-sm-3">
                     <h5 id="listaPla">Support</h5>
                     <ul>
@@ -1017,7 +1017,7 @@ s.setAttribute('data-timestamp', +new Date());
                     
                     </ul>
                 </div>
-              -->
+           
 
                 </div>
             </div>

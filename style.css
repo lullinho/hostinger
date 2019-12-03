@@ -563,7 +563,9 @@ a {
   size: 10px;
 }
 
-
+ #texto_{
+  font-size: 26px;
+ }
 
 /*
 .margem-comentario{
@@ -588,7 +590,7 @@ a {
 }*/
 @media(max-width: 1200px){
   .blockquote{
-      font-size: 19px;
+      font-size: 25px;
     }
 
 }
@@ -618,7 +620,7 @@ a {
 }
 #texto_ {
   
-  font-size:20px;
+  font-size:23px;
 
 }
 
@@ -653,9 +655,9 @@ a {
   padding: 0px !important; 
 
 }
-.texto_ {
+#texto_ {
   
-  font-size:16px;
+  font-size:19px;
 
 }
 

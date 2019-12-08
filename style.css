@@ -14,6 +14,29 @@
 	
 }
 
+.margemCima{
+  margin-top: -70px;
+}
+.avaliacao{
+  margin-bottom: -10px;
+  color: green;
+}
+.avaliacao1{
+  color:red;
+}
+.avaliacao2{
+  color:blue;
+}
+.avaliacao3{
+  color:#4d0000 ;
+}
+.avaliacao4{
+  color:black;
+}
+
+.col-10 i{
+  font-size: 18px;
+}
 
 /*
 footer {
@@ -114,7 +137,9 @@ body {
 
 }
 
-
+.card{
+overflow-x: hidden!important;
+}
 
 /*
 .card{
@@ -452,8 +477,8 @@ a {
   margin-bottom: 1px;
   border: solid black 1px;
   overflow: hidden;
-  background-color: #B0E0E6
-;
+  background-color: #B0E0E6;
+overflow-x: hidden;
 
 }
 
@@ -524,18 +549,33 @@ a {
   left: 50%;
   right: 50%;
   bottom: 0;
-  background: pink;
-  height: 2px;
+  background: orange;
+  height: 3px;
   -webkit-transition-property: left, right;
   transition-property: left, right;
   -webkit-transition-duration: 2s;
-  transition-duration: 0.5s;
+  transition-duration: 0.9s;
   -webkit-transition-timing-function: ease-out;
   transition-timing-function: ease-out;
+  box-sizing: border-box;
+  bottom:15%;
+
 }
 .different:hover:before, .different:focus:before, .different:active:before {
-  left: 0;
-  right: 0;
+  left: 10%;
+  right: 10%;
+}
+.navbar .active {
+  /*
+  border-color: transparent; 
+  box-shadow: 0 0 0 2px blue; */
+  border-bottom: pink solid 2px;
+
+
+}
+
+.navbar .ativo{
+  background-color: blue;
 }
 
 .content {

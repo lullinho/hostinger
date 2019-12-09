@@ -15,23 +15,23 @@
 }
 
 .margemCima{
-  margin-top: -70px;
+  margin-top: -70px!important;
 }
 .avaliacao{
   margin-bottom: -10px;
-  color: green;
+  color: gree!important;
 }
 .avaliacao1{
-  color:red;
+  color:red!important;
 }
 .avaliacao2{
-  color:blue;
+  color:blue!important;
 }
 .avaliacao3{
-  color:#4d0000 ;
+  color:#4d0000!important ;
 }
 .avaliacao4{
-  color:black;
+  color:black!important;
 }
 
 .col-10 i{
@@ -137,9 +137,7 @@ body {
 
 }
 
-.card{
-overflow-x: hidden!important;
-}
+
 
 /*
 .card{
@@ -480,6 +478,10 @@ a {
   background-color: #B0E0E6;
 overflow-x: hidden;
 
+}
+
+.nav-item i:hover{
+  color: pink;
 }
 
 

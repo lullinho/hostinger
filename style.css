@@ -38,6 +38,20 @@
   font-size: 18px;
 }
 
+.margem-qr{
+width: 700px;
+margin-top: -50px;
+
+}
+.qrTexto{
+position: absolute;
+
+align-items: center;
+align-content: center;
+text-align: center;
+
+}
+
 /*
 footer {
   background: #222;

@@ -45,7 +45,6 @@ margin-top: -50px;
 }
 .qrTexto{
 position: absolute;
-
 align-items: center;
 align-content: center;
 text-align: center;
@@ -649,6 +648,7 @@ overflow-x: hidden;
       font-size: 25px;
     }
 
+
 }
 
 
@@ -658,6 +658,11 @@ overflow-x: hidden;
 
  .blockquote{
       font-size: 17px;
+    }
+            .cardd2{
+      width: 310px;
+      margin: 0%;
+      height: 100%;
     }
 
      .espacoRespostaDuvida{
@@ -687,6 +692,12 @@ overflow-x: hidden;
         width: 650px;
         height: 350px;
     }
+            .cardd2{
+      width: 100%;
+      margin: 0%;
+      height: 100%;
+    }
+
 
     .carroselSemMargem{
       padding: 0px !important;
